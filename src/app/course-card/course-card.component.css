@@ -1,0 +1,14 @@
+button{
+    background-color: #3c3c3c;
+    color:rgb(212, 212, 212);
+}
+.course-card.b {
+    background: rgb(255, 0, 119);
+}
+.course-card.i {
+    background: rgb(95, 207, 174);
+}
+.course-card.a {
+    background: rgb(135, 106, 203);
+}
+
